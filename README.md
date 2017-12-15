@@ -1,4 +1,7 @@
 # uvk
+[![NPM](https://nodei.co/npm/uvk.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/uvk/)
+
+
 a small set of shared js utility functions, with no dependencies.
 ## How to install
 ```
